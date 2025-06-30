@@ -15,8 +15,7 @@ const Index = () => {
       <section className="bg-gradient-to-br from-ai-blue/90 to-ai-purple/80 text-white py-16 md:py-20">
         <div className="container mx-auto px-4 sm:px-6 max-w-4xl text-center">
           <h1 className="text-3xl md:text-4xl font-bold mb-6 animate-fadeIn">
-            תודה שהשתתפתם ביום העיון שלנו על בינה מלאכותית במקצועות הבריאות,
-            במרכז רפואי שהם!
+            תודה שהשתתפתם בסדנה שלנו על בינה מלאכותית במקצועות הבריאות!
           </h1>
           <p className="text-lg md:text-xl max-w-3xl mx-auto opacity-90 mb-10">
             אנו מודים לכם על ההשתתפות, הסקרנות וההקשבה. אם נהניתם ולמדתם, נשמח
@@ -47,24 +46,6 @@ const Index = () => {
               <img
                 src="/lovable-uploads/f5da2f07-6705-482e-ae02-e94e33ea102e.png"
                 alt="AI for OTs Logo"
-                className="w-full h-full object-contain rounded-full"
-              />
-            </div>
-
-            {/* Shoham Medical Center Logo */}
-            <div className="w-32 h-32 bg-white rounded-full p-2">
-              <img
-                src="/lovable-uploads/7e2043c5-05d5-4d30-9a8c-91dd57f44ad5.png"
-                alt="המרכז הרפואי שהם"
-                className="w-full h-full object-contain rounded-full"
-              />
-            </div>
-
-            {/* Shoham OT Institute Logo */}
-            <div className="w-32 h-32 bg-white rounded-full p-2">
-              <img
-                src="/lovable-uploads/bf2459d4-397a-4a0d-b764-7bf8c5c83044.png"
-                alt="מכון ריפוי בעיסוק שהם"
                 className="w-full h-full object-contain rounded-full"
               />
             </div>
