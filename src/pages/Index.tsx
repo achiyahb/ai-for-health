@@ -3,7 +3,6 @@ import { ArrowLeft, Heart } from "lucide-react";
 import { NavLink } from "react-router-dom";
 import Navbar from "@/components/Navbar";
 import SummarySection from "@/components/SummarySection";
-import PromptGuide from "@/components/PromptGuide";
 import { Button } from "@/components/ui/button";
 
 const Index = () => {
