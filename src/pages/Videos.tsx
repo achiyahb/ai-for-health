@@ -12,6 +12,13 @@ const Videos = () => {
       icon: "shield" as const,
     },
     {
+      embedId: "Ks-2YPNCfA4",
+      title: "סקירה על Google AI Studio",
+      description:
+        "סקירה קצרה על Google AI Studio שמאפשר יצירת סרטונים, מוזיקה, הקראת טקסט, תמונות, ושיתוף מסך עם הAI",
+      icon: "bot" as const,
+    },
+    {
       embedId: "h6Y6BX2D4nU",
       title: "שימוש ב-Explore GPTs",
       description:
