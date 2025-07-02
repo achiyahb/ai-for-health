@@ -121,6 +121,19 @@ const SummarySection = () => {
                 </li>
 
                 <li className="flex items-start">
+                  <span className="font-semibold ml-2">סקץ׳ (Sketch):</span>
+                  <span className="text-gray-700">כלי להנפשת תמונות - </span>
+                  <a
+                    href="https://sketch.metademolab.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-ai-blue hover:underline mr-1"
+                  >
+                    לאתר
+                  </a>
+                </li>
+
+                <li className="flex items-start">
                   <span className="font-semibold ml-2">גמה (Gamma):</span>
                   <span className="text-gray-700">כלי ליצירת מצגות - </span>
                   <a
