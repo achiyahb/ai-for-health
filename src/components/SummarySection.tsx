@@ -5,7 +5,7 @@ import PromptGuide from "./PromptGuide";
 const SummarySection = () => {
   return (
     <section className="py-8 container mx-auto px-4 sm:px-6 max-w-4xl">
-      <h2 className="text-2xl font-bold mb-6 text-ai-blue">סיכום היום עיון</h2>
+      <h2 className="text-2xl font-bold mb-6 text-ai-blue">סיכום הסדנה</h2>
 
       <div className="space-y-6">
         <div className="bg-white rounded-lg p-6 card-shadow">

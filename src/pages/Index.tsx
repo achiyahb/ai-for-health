@@ -16,27 +16,6 @@ const Index = () => {
           <h1 className="text-3xl md:text-4xl font-bold mb-6 animate-fadeIn">
             תודה שהשתתפתם בסדנה שלנו על בינה מלאכותית במקצועות הבריאות!
           </h1>
-          <p className="text-lg md:text-xl max-w-3xl mx-auto opacity-90 mb-10">
-            אנו מודים לכם על ההשתתפות, הסקרנות וההקשבה. אם נהניתם ולמדתם, נשמח
-            מאוד לקבל מכם המלצה אישית קצרה, על מנת שנוכל להמשיך ולשתף ידע עם עוד
-            מטפלים ממקצועות הבריאות.
-          </p>
-          <Button
-            size="lg"
-            asChild
-            className="bg-white text-ai-blue hover:bg-gray-100 group"
-          >
-            <a
-              href="https://forms.gle/B1T7PKrkbcKjJCo29"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center space-x-2 space-x-reverse"
-            >
-              <span>כתבו לנו המלצה</span>
-              <ArrowLeft className="h-5 w-5 mr-1 transition-transform group-hover:-translate-x-1" />
-              <Heart className="h-4 w-4 text-red-500 ml-1" />
-            </a>
-          </Button>
 
           {/* Logos Section */}
           <div className="mt-12 flex flex-wrap justify-center items-center gap-8">
