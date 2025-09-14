@@ -176,6 +176,24 @@ const SummarySection = () => {
                     לאתר
                   </a>
                 </li>
+
+                <li className="flex items-start">
+                  <span className="font-semibold ml-2">
+                    מדריך פרומפטינג של גוגל:
+                  </span>
+                  <span className="text-gray-700">
+                    מדריך מפורט לכתיבת פרומפטים עבור המודלים של גוגל ליצירת
+                    ועריכת תמונות -{" "}
+                  </span>
+                  <a
+                    href="https://ai.google.dev/gemini-api/docs/image-generation?hl=he#image-editing-prompts"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-ai-blue hover:underline mr-1"
+                  >
+                    למדריך
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
