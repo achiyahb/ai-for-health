@@ -208,28 +208,6 @@ const SummarySection = () => {
             </div>
           </div>
         </div>
-
-        <div className="bg-white rounded-lg p-6 card-shadow">
-          <div className="flex items-start space-x-4 space-x-reverse">
-            <div className="bg-ai-lightBlue p-3 rounded-full">
-              <FileText className="h-6 w-6 text-ai-blue" />
-            </div>
-            <div className="flex-1">
-              <h3 className="font-bold text-lg mb-2">נשמח לשמוע מכם</h3>
-              <p className="text-gray-700 leading-relaxed">
-                נשמח שתעזרו להנגיש את הידע הזה לקהלים נוספים, ותוכלו לכתוב לנו
-                <a
-                  href="https://forms.gle/B1T7PKrkbcKjJCo29"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-600 hover:text-blue-800 underline mx-1"
-                >
-                  המלצה
-                </a>
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
